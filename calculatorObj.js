@@ -2,7 +2,7 @@ const calculatorObj = {
     //area of a parallelogram calculator
     areaOfParallelogram: function(base, height){
         const paraArea = base * height;
-        return area.toFixed(2);
+        return paraArea.toFixed(2);
     },
 
     //volume of a cylinder calculator
